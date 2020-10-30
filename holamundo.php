@@ -1,6 +1,6 @@
 <html>
 	<title>Hola mundo</title>
 	<body>
-	echo "hola mundo"
+	echo "hola mundo!"
 	</body>
 </html>
